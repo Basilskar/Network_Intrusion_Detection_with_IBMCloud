@@ -62,7 +62,7 @@ This project implements and compares multiple machine learning algorithms to fin
 - **Performance**: Train Score: 0.999943, Test Score: 0.992591
 - **Use Case**: Excellent for understanding attack patterns
 
-  ![Decision Tree](assets/Decision_tree.png)
+  ![Decision Tree](Assets/Screenshot%202025-08-04%20171725.png)
 
 ### 4. Random Forest
 - **Algorithm Type**: Ensemble method
