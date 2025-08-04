@@ -163,7 +163,7 @@ Based on comprehensive evaluation, here's the performance ranking:
 | 4 | Random Forest | 0.999603 | 0.994972 | Robust performance |
 | 5 | CatBoost | 0.998866 | 0.994972 | Categorical handling |
 
-![Performance Metrics](assets/performance_metrics.png)
+
 
 ### Key Insights:
 - **XGBoost** achieved the highest test accuracy (99.62%)
@@ -180,7 +180,6 @@ Based on comprehensive evaluation, here's the performance ranking:
 - **IBM Cloud Object Storage**: Data storage and management
 - **IBM Watson Runtime**: Model serving infrastructure
 
-![Tech Stack](assets/tech_stack.png)
 
 ### Development Tools:
 - **Python 3.8+**: Primary programming language
@@ -222,7 +221,6 @@ Watson Studio Access
 3. Configure Cloud Object Storage
 4. Import project notebooks
 
-![Setup Guide](assets/setup_guide.png)
 
 ## 🚀 Usage
 
@@ -244,8 +242,8 @@ probabilities = model.predict_proba(new_network_data)
 1. **XGBoost**: 99.62% accuracy - Best overall performance
 2. **Voting Ensemble**: 99.56% accuracy - Most stable predictions
 3. **LightGBM**: 99.59% accuracy - Fastest training time
-
-![Results Summary](assets/results_summary.png)
+   
+![Performance Metrics](Assets/Screenshot%202025-08-04%20171644.png)
 
 ### AutoAI Results:
 - **Pipeline 5**: Achieved competitive performance with automated optimization
@@ -295,7 +293,6 @@ deployment = client.deployments.create(
 scoring_endpoint = client.deployments.get_scoring_href(deployment)
 ```
 
-![Deployment Pipeline](assets/deployment_pipeline.png)
 
 ### Real-time Scoring:
 ```python
