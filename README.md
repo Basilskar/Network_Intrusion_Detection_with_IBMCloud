@@ -140,7 +140,7 @@ This project leverages IBM Watson Machine Learning's AutoAI capabilities to auto
 - **Hyperparameter Tuning**: Optimization using advanced techniques
 - **Pipeline Evaluation**: Cross-validation and performance metrics
 
-![AutoAI Pipeline](assets/autoai_pipeline.png)
+![AutoAI Pipeline](Assets/Screenshot%202025-08-03%20232919.png)
 
 ### Generated Pipelines:
 The AutoAI experiment generated multiple pipelines with different configurations:
