@@ -124,7 +124,7 @@ This project implements and compares multiple machine learning algorithms to fin
 
 This project leverages IBM Watson Machine Learning's AutoAI capabilities to automatically discover, configure, and deploy the best-performing machine learning pipeline.
 
-![AutoAI Workflow](assets/autoai_workflow.png)
+![AutoAI Workflow](Assets/Screenshot%202025-08-03%20232726.png)
 
 ### AutoAI Process:
 1. **Data Preparation**: Automated data preprocessing and feature engineering
@@ -222,9 +222,6 @@ Watson Studio Access
 4. Import project notebooks
 
 
-## 🚀 Usage
-
-![Usage Example](assets/usage_example.png)
 
 ### Making Predictions:
 ```python
@@ -256,7 +253,6 @@ probabilities = model.predict_proba(new_network_data)
 - AutoAI provides competitive results with minimal manual intervention
 - The system can detect various attack types with high accuracy
 
-![Confusion Matrix](assets/confusion_matrix.png)
 
 ### Attack Detection Capabilities:
 - **Normal Traffic**: 99.8% precision
@@ -269,7 +265,6 @@ probabilities = model.predict_proba(new_network_data)
 
 The project includes comprehensive visualizations:
 
-![ROC Curves](assets/roc_curves.png)
 
 - **ROC Curves**: Model discrimination capability
 - **Precision-Recall**: Performance across different thresholds
