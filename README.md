@@ -13,8 +13,6 @@
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
