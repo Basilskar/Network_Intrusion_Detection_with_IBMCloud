@@ -1,22 +1,23 @@
 # Network_Intrusion_Detection_with_IBMCloud
 
-
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Machine Learning Models](#machine-learning-models)
-- [IBM AutoAI Integration](#ibm-autoai-integration)
-- [Model Performance Comparison](#model-performance-comparison)
-- [Technology Stack](#technology-stack)
-- [Project Architecture](#project-architecture)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Results](#results)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Machine Learning Models](#-machine-learning-models)
+- [IBM AutoAI Integration](#-ibm-autoai-integration)
+- [Model Performance Comparison](#-model-performance-comparison)
+- [Technology Stack](#-technology-stack)
+- [Project Architecture](#-project-architecture)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Performance Visualization](#-performance-visualization)
+- [Model Deployment](#-model-deployment)
+- [Acknowledgments](#-acknowledgments)
 
 ## 🎯 Overview
 
 This project implements a comprehensive Network Intrusion Detection System (NIDS) using various machine learning algorithms to identify and classify network attacks. The system leverages both traditional ML approaches and IBM's AutoAI capabilities to achieve optimal performance in detecting network anomalies and security threats.
-
 
 ### Key Features
 - Multi-model approach for robust intrusion detection
@@ -30,7 +31,6 @@ This project implements a comprehensive Network Intrusion Detection System (NIDS
 **Source**: [Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection/data)
 
 The dataset contains network traffic data with various features that help in identifying different types of network attacks and normal traffic patterns.
-
 
 ### Dataset Characteristics:
 - **Size**: Multiple network traffic records
@@ -307,15 +307,6 @@ response = client.deployments.score(deployment_uid, payload)
 prediction = response['predictions'][0]['values'][0]
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
@@ -324,10 +315,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source ML community for algorithm implementations
 - IBM Cloud for providing the infrastructure platform
 
-![Thank You](assets/thank_you.png)
+
 
 ---
 
 **Note**: This project is part of ongoing research in cybersecurity and machine learning. The models and techniques used here are for educational and research purposes. For production deployment, additional security measures and compliance checks should be implemented.
 
-![Footer](assets/footer.png)
