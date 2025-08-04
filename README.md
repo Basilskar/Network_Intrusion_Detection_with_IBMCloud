@@ -42,7 +42,7 @@ The dataset contains network traffic data with various features that help in ide
 
 This project implements and compares multiple machine learning algorithms to find the most effective approach for network intrusion detection.
 
-![ML Models Comparison](assets/ml_models_comparison.png)
+
 
 ### 1. K-Nearest Neighbors (KNN)
 - **Algorithm Type**: Instance-based learning
@@ -61,6 +61,8 @@ This project implements and compares multiple machine learning algorithms to fin
 - **Strengths**: Highly interpretable, handles non-linear relationships
 - **Performance**: Train Score: 0.999943, Test Score: 0.992591
 - **Use Case**: Excellent for understanding attack patterns
+
+  ![Decision Tree](assets/Decision_tree.png)
 
 ### 4. Random Forest
 - **Algorithm Type**: Ensemble method
