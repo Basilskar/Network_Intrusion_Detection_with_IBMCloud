@@ -196,7 +196,7 @@ Based on comprehensive evaluation, here's the performance ranking:
 
 ## 🏗 Project Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](Assets/Screenshot%202025-08-03%20232648.png)
 
 The project follows a modular architecture:
 
