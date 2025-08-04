@@ -118,7 +118,7 @@ This project implements and compares multiple machine learning algorithms to fin
 - **Performance**: Train Score: 0.965521, Test Score: 0.966393
 - **Use Case**: Complex decision boundaries
 
-![Model Performance Chart](assets/performance_chart.png)
+!![Performance Metrics](Assets/Screenshot%202025-08-04%20171644.png)
 
 ## 🚀 IBM AutoAI Integration
 
@@ -243,7 +243,7 @@ probabilities = model.predict_proba(new_network_data)
 2. **Voting Ensemble**: 99.56% accuracy - Most stable predictions
 3. **LightGBM**: 99.59% accuracy - Fastest training time
    
-![Performance Metrics](Assets/Screenshot%202025-08-04%20171644.png)
+
 
 ### AutoAI Results:
 - **Pipeline 5**: Achieved competitive performance with automated optimization
