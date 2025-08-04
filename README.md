@@ -148,7 +148,8 @@ The AutoAI experiment generated multiple pipelines with different configurations
 - **Pipeline 5 (P5)**: Balanced performance and interpretability
 - **Pipeline 6 (P6)**: Optimized for speed and efficiency
 
-![Pipeline Comparison](assets/pipeline_comparison.png)
+![Pipeline Comparison](Assets/Screenshot%202025-08-03%20232800.png)
+
 
 ## 📈 Model Performance Comparison
 
