@@ -1,7 +1,5 @@
 # Network_Intrusion_Detection_with_IBMCloud
 
-# Network Intrusion Detection Using Machine Learning Models
-
 ![Project Banner](assets/banner.png)
 
 ## 📋 Table of Contents
