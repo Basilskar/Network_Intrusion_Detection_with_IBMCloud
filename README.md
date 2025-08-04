@@ -1,6 +1,5 @@
 # Network_Intrusion_Detection_with_IBMCloud
 
-![Project Banner](assets/banner.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -18,7 +17,6 @@
 
 This project implements a comprehensive Network Intrusion Detection System (NIDS) using various machine learning algorithms to identify and classify network attacks. The system leverages both traditional ML approaches and IBM's AutoAI capabilities to achieve optimal performance in detecting network anomalies and security threats.
 
-![Network Security](assets/network_security.png)
 
 ### Key Features
 - Multi-model approach for robust intrusion detection
@@ -33,7 +31,6 @@ This project implements a comprehensive Network Intrusion Detection System (NIDS
 
 The dataset contains network traffic data with various features that help in identifying different types of network attacks and normal traffic patterns.
 
-![Dataset Overview](assets/dataset_overview.png)
 
 ### Dataset Characteristics:
 - **Size**: Multiple network traffic records
